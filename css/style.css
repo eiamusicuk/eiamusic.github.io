@@ -331,8 +331,9 @@ nav ul li a {
   max-width: 100%;
   margin-bottom: 0;
   color: #0b0b0b;
+  font-size: 18px;
   text-align: left;
-  padding: 30px;
+  padding: 1px;
 }
 
 /*-----------------------------------------------------------------------------------*/
