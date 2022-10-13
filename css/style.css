@@ -95,6 +95,10 @@ p {
   line-height: 28px;
 }
 
+video-wrapper{
+
+}
+
 ::-moz-selection {
   background: #b8a07e;
   color: #fff;
