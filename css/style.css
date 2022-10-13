@@ -192,8 +192,8 @@ video-wrapper{
 }
 
 .paddsections {
-  padding-top: 90px;
-  padding-bottom: 90px !important;
+  padding-top: 50px;
+  padding-bottom: 50px !important;
 }
 
 .hvr-shutter-in-horizontal::before {
@@ -312,7 +312,8 @@ nav ul li a {
 .header-content .list-social li {
   float: left;
   margin-right: 20px;
-  margin-top: 200px;
+  margin-top: 20px;
+  margin-bottom: 200px;
 }
 
 .header-content .list-social li i {

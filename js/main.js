@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Music", "Acting", "Modelling"],
-      typeSpeed: 100,
+      strings: ['... "ethereal powerhouse"', '... "cosmic butterfly"', '... "transcendental bliss"'],
+      typeSpeed: 50,
       loop: true,
     });
   });
